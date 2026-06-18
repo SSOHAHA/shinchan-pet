@@ -1,0 +1,47 @@
+{
+  "name": "Shinchan Backpack 12Frame",
+  "author": "Soha",
+  "image": "shinchan_sprite_12frame.png",
+  "frameWidth": 128,
+  "frameHeight": 128,
+  "animations": {
+    "idle_down": [
+      0
+    ],
+    "idle_right": [
+      3
+    ],
+    "idle_up": [
+      6
+    ],
+    "idle_left": [
+      9
+    ],
+    "walk_down": [
+      0,
+      1,
+      0,
+      2
+    ],
+    "walk_right": [
+      3,
+      4,
+      3,
+      5
+    ],
+    "walk_up": [
+      6,
+      7,
+      6,
+      8
+    ],
+    "walk_left": [
+      9,
+      10,
+      9,
+      11
+    ]
+  },
+  "frameRate": 8,
+  "scale": 1
+}
